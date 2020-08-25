@@ -1,5 +1,7 @@
 # hello-world
 First repository for learning purposes
 *****
-Hello, World, I'm here to rock the casbah or whatever that means. I'm into Java and coffee, and I'm not afraid to code it so.
+Hello, World! Let's get started and break down these stories into backlog items. 
+
+p.s. I'm into Kotlin and coffee, and I'm not afraid to code it so.
 *****
